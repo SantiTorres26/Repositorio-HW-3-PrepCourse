@@ -1,6 +1,27 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    margin: 20px;
-  }
+    background-color: rgb(95, 202, 167);
+    
+}
+
+.title {
+    font-size: 2.5em;
+
+}
+
+.logo{ 
+    width: 150px;
+
+}
+
+#Titulo {
+    font-size: 3em;
+    text-shadow: rgb(105, 105, 105) 6px 6px 8px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+
+#hipervinculo:hover {
+    background-color: darkslateblue;
+
+}
